@@ -12,4 +12,5 @@ class PopularCell: UICollectionViewCell {
     
     @IBOutlet weak var iconView: UIImageView!
     @IBOutlet weak var bgView: UIView!
+    
 }
